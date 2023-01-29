@@ -19,7 +19,7 @@ services:
     container_name: pgadmin
     image: dpage/pgadmin4
     environment:
-      PGADMIN_DEFAULT_EMAIL: "admin@gmail.com"
+      PGADMIN_DEFAULT_EMAIL: "masprog2022@gmail.com"
       PGADMIN_DEFAULT_PASSWORD: "admin"
       TZ: "America/Sao_Paulo"
     ports:
